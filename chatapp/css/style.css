@@ -1,0 +1,16 @@
+.background{
+    background-color: blue;
+}
+.alert-success{
+    width:60%;
+    float:right;
+    text-align: right;
+}
+.alert-primary{
+    width:60%;
+    float:left;
+}
+.mid-section{
+    height: 60vh;
+    overflow: auto;
+}
